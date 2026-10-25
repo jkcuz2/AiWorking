@@ -1,0 +1,10 @@
+{
+  "type": "mcp",
+  "server_label": "game_studio",
+  "transport": {
+    "type": "http",
+    "server_url": "https://YOUR-SERVICE.onrender.com/mcp/",
+    "authorization": "Bearer YOUR_MCP_ACCESS_TOKEN"
+  },
+  "required": true
+}
